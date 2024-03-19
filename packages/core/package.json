@@ -19,7 +19,7 @@
         "default": "./index.js"
       },
       "require": {
-        "types": "./index.d.ts",
+        "types": "./index.d.cts",
         "default": "./index.cjs"
       }
     }

@@ -1,6 +1,6 @@
 {
   "name": "@middy/monorepo",
-  "version": "4.7.0",
+  "version": "4.7.1",
   "description": "🛵 The stylish Node.js middleware engine for AWS Lambda",
   "private": true,
   "type": "module",
@@ -23,6 +23,7 @@
     "test:packages:benchmark": "lerna exec --bail --concurrency 1 npm run test:benchmark",
     "test:packages:typings": "lerna exec --bail --concurrency 5 tsd",
     "release:tag": "git tag $npm_package_version && git push --tags",
+    "preversion": "echo %npm_package_version%",
     "lerna:rm": "npm run lerna:rm:node_modules && npm run lerna:rm:lock",
     "lerna:rm:cjs": "lerna exec -- rm -rf index.cjs && lerna exec -- rm -rf index.cjs.bak",
     "lerna:rm:lock": "lerna exec -- rm -rf package-lock.json",
@@ -31,7 +32,7 @@
     "lerna:outdated": "lerna exec --concurrency 5 npm outdated --no-bail",
     "lerna:audit": "lerna exec --concurrency 2 npm audit fix",
     "lerna:fund": "lerna exec --concurrency 2 npm fund",
-    "lerna:sync": "lerna exec --bail --concurrency 2 npm install && lerna publish --exact --yes --skip-npm --skip-git --repo-version $npm_package_version",
+    "lerna:sync": "lerna exec --bail --concurrency 2 npm install && lerna publish --exact --yes --skip-npm --skip-git --repo-version %npm_package_version%",
     "lerna:publish": "lerna publish --exact --yes --skip-git --repo-version $npm_package_version",
     "lerna:publish:next": "lerna publish --exact --yes --skip-git --repo-version $npm_package_version --dist-tag next"
   },

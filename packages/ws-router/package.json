@@ -50,7 +50,7 @@
   ],
   "author": {
     "name": "Middy contributors",
-    "url": "https://github.com/middyjs/middy/graphs/contributors"
+    "url": "https://github.com/GnxGcs/middy/graphs/contributors"
   },
   "repository": {
     "type": "git",
@@ -58,7 +58,7 @@
     "directory": "packages/ws-router"
   },
   "bugs": {
-    "url": "https://github.com/middyjs/middy/issues"
+    "url": "https://github.com/GnxGcs/middy/issues"
   },
   "homepage": "https://middy.js.org",
   "funding": {

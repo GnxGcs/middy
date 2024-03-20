@@ -9,8 +9,8 @@
   <a href="https://packagephobia.com/result?p=@middy/cloudwatch-metrics">
     <img src="https://packagephobia.com/badge?p=@middy/cloudwatch-metrics" alt="npm install size" style="max-width:100%;">
   </a>
-  <a href="https://github.com/middyjs/middy/actions/workflows/tests.yml">
-    <img src="https://github.com/middyjs/middy/actions/workflows/tests.yml/badge.svg?branch=main&event=push" alt="GitHub Actions CI status badge" style="max-width:100%;">
+  <a href="https://github.com/GnxGcs/middy/actions/workflows/tests.yml">
+    <img src="https://github.com/GnxGcs/middy/actions/workflows/tests.yml/badge.svg?branch=main&event=push" alt="GitHub Actions CI status badge" style="max-width:100%;">
   </a>
   <br/>
    <a href="https://standardjs.com/">
@@ -19,8 +19,8 @@
   <a href="https://snyk.io/test/github/middyjs/middy">
     <img src="https://snyk.io/test/github/middyjs/middy/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/middyjs/middy" style="max-width:100%;">
   </a>
-  <a href="https://github.com/middyjs/middy/actions/workflows/sast.yml">
-    <img src="https://github.com/middyjs/middy/actions/workflows/sast.yml/badge.svg
+  <a href="https://github.com/GnxGcs/middy/actions/workflows/sast.yml">
+    <img src="https://github.com/GnxGcs/middy/actions/workflows/sast.yml/badge.svg
 ?branch=main&event=push" alt="CodeQL" style="max-width:100%;">
   </a>
   <a href="https://bestpractices.coreinfrastructure.org/projects/5280">
@@ -39,7 +39,7 @@
 
 ## License
 
-Licensed under [MIT License](LICENSE). Copyright (c) 2017-2018 Luciano Mammino and the [Middy team](https://github.com/middyjs/middy/graphs/contributors).
+Licensed under [MIT License](LICENSE). Copyright (c) 2017-2018 Luciano Mammino and the [Middy team](https://github.com/GnxGcs/middy/graphs/contributors).
 
 <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmiddyjs%2Fmiddy?ref=badge_large">
   <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmiddyjs%2Fmiddy.svg?type=large" alt="FOSSA Status"  style="max-width:100%;">

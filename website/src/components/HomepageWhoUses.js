@@ -3,7 +3,7 @@ import React from 'react'
 import clsx from 'clsx'
 
 /*
-https://github.com/middyjs/middy/network/dependents?package_id=UGFja2FnZS00Njc1NDUzOTU%3D
+https://github.com/GnxGcs/middy/network/dependents?package_id=UGFja2FnZS00Njc1NDUzOTU%3D
  */
 
 const UseList = [
@@ -72,7 +72,7 @@ const UseList = [
   */
 ]
 
-function Feature ({ title, url, img }) {
+function Feature({ title, url, img }) {
   return (
     <div className={clsx('col')}>
       <a href={url} className='padding-horiz--md'>
@@ -82,7 +82,7 @@ function Feature ({ title, url, img }) {
   )
 }
 
-export default function HomepageWhoUses () {
+export default function HomepageWhoUses() {
   return (
     <section className={styles.features}>
       <div className='container'>

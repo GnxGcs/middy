@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/middyjs/middy.git"
+    "url": "git+https://github.com/GnxGcs/middy.git"
   },
   "keywords": [
     "Lambda",
@@ -50,11 +50,11 @@
   ],
   "author": {
     "name": "Middy contributors",
-    "url": "https://github.com/middyjs/middy/graphs/contributors"
+    "url": "https://github.com/GnxGcs/middy/graphs/contributors"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/middyjs/middy/issues"
+    "url": "https://github.com/GnxGcs/middy/issues"
   },
   "homepage": "https://middy.js.org",
   "devDependencies": {

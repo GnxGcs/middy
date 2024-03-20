@@ -27,7 +27,7 @@ const config = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/middyjs/middy/tree/main/website/',
+          editUrl: 'https://github.com/GnxGcs/middy/tree/main/website/',
           remarkPlugins: [
             [require('@docusaurus/remark-plugin-npm2yarn'), { sync: true }]
           ]
@@ -71,7 +71,7 @@ const config = {
             label: 'AWS Events'
           },
           {
-            href: 'https://github.com/middyjs/middy',
+            href: 'https://github.com/GnxGcs/middy',
             label: 'GitHub',
             position: 'right'
           }
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/middyjs/middy'
+                href: 'https://github.com/GnxGcs/middy'
               },
               {
                 label: 'Stack Overflow',

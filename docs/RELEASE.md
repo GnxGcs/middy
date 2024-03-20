@@ -44,7 +44,7 @@ At a given point in time, if you want to draft a new release, you need to follow
 ### 3. Publish release on GitHub
 
 - If you have been working on a branch so far, make sure the branch is merged back to master (or its own version branch in case of future/past major versions).
-- Create a [new release on GitHub](https://github.com/middyjs/middy/releases/new), with the following attributes:
+- Create a [new release on GitHub](https://github.com/GnxGcs/middy/releases/new), with the following attributes:
   - **Tag version**: `X.Y.Z` as per the target version. Note: don't use a `v` prefix for the version.
   - **Release title**: same as above
   - **Release description**: copy the changes from the [CHANGELOG.md](/CHANGELOG.md)

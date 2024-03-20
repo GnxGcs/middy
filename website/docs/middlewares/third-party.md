@@ -4,7 +4,7 @@ sidebar_position: 100
 ---
 
 The following middlewares are created and maintained outside this project. We cannot guarantee for its functionality.
-If your middleware is missing, feel free to [open a Pull Request](https://github.com/middyjs/middy/pulls).
+If your middleware is missing, feel free to [open a Pull Request](https://github.com/GnxGcs/middy/pulls).
 
 ## Version 2.x - 4.x
 
